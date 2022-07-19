@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyauthtestts",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/yukihiro/projects/amplifyExportCheck/amplify-auth-test-ts/amplify/backend/api/amplifyauthtestts/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifyauthtestts56daf349"
+    }
+  }
+}
